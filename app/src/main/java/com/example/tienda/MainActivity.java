@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //comentario
         int num;
 
-        //comentario#2
-        num =10;
+        //comentario#3
+        num =30;
     }
 }
