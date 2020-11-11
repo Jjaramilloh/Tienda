@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //comentario
         int num;
+
+        //comentario#2
+        num =10;
     }
 }
